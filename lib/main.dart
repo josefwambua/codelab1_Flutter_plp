@@ -82,7 +82,7 @@ class _MyHomePageState extends State<MyHomePage> {
             children: [
               SafeArea(
                 child: NavigationRail(
-                  backgroundColor: Color.fromARGB(0, 252, 176, 126),
+                  backgroundColor: Colors.lightBlue,
                   
                   extended: constraints.maxWidth >= 600,
                 
